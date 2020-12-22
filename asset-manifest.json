@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MissBitcoin/static/css/main.aedff65e.chunk.css",
-    "main.js": "/MissBitcoin/static/js/main.1ce19c0c.chunk.js",
-    "main.js.map": "/MissBitcoin/static/js/main.1ce19c0c.chunk.js.map",
+    "main.js": "/MissBitcoin/static/js/main.d883b175.chunk.js",
+    "main.js.map": "/MissBitcoin/static/js/main.d883b175.chunk.js.map",
     "runtime-main.js": "/MissBitcoin/static/js/runtime-main.fa559922.js",
     "runtime-main.js.map": "/MissBitcoin/static/js/runtime-main.fa559922.js.map",
     "static/css/2.4d98ed14.chunk.css": "/MissBitcoin/static/css/2.4d98ed14.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4d98ed14.chunk.css",
     "static/js/2.28e11ba0.chunk.js",
     "static/css/main.aedff65e.chunk.css",
-    "static/js/main.1ce19c0c.chunk.js"
+    "static/js/main.d883b175.chunk.js"
   ]
 }
