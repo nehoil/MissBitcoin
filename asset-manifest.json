@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/MissBitcoin/static/css/main.aedff65e.chunk.css",
-    "main.js": "/MissBitcoin/static/js/main.d883b175.chunk.js",
-    "main.js.map": "/MissBitcoin/static/js/main.d883b175.chunk.js.map",
-    "runtime-main.js": "/MissBitcoin/static/js/runtime-main.fa559922.js",
-    "runtime-main.js.map": "/MissBitcoin/static/js/runtime-main.fa559922.js.map",
+    "main.css": "/MissBitcoin/static/css/main.6ad634c0.chunk.css",
+    "main.js": "/MissBitcoin/static/js/main.9247f9e9.chunk.js",
+    "main.js.map": "/MissBitcoin/static/js/main.9247f9e9.chunk.js.map",
+    "runtime-main.js": "/MissBitcoin/static/js/runtime-main.3fd7ddff.js",
+    "runtime-main.js.map": "/MissBitcoin/static/js/runtime-main.3fd7ddff.js.map",
     "static/css/2.4d98ed14.chunk.css": "/MissBitcoin/static/css/2.4d98ed14.chunk.css",
-    "static/js/2.28e11ba0.chunk.js": "/MissBitcoin/static/js/2.28e11ba0.chunk.js",
-    "static/js/2.28e11ba0.chunk.js.map": "/MissBitcoin/static/js/2.28e11ba0.chunk.js.map",
-    "static/js/3.03adeca5.chunk.js": "/MissBitcoin/static/js/3.03adeca5.chunk.js",
-    "static/js/3.03adeca5.chunk.js.map": "/MissBitcoin/static/js/3.03adeca5.chunk.js.map",
+    "static/js/2.8ace86d7.chunk.js": "/MissBitcoin/static/js/2.8ace86d7.chunk.js",
+    "static/js/2.8ace86d7.chunk.js.map": "/MissBitcoin/static/js/2.8ace86d7.chunk.js.map",
+    "static/js/3.3e3e71a8.chunk.js": "/MissBitcoin/static/js/3.3e3e71a8.chunk.js",
+    "static/js/3.3e3e71a8.chunk.js.map": "/MissBitcoin/static/js/3.3e3e71a8.chunk.js.map",
     "index.html": "/MissBitcoin/index.html",
     "static/css/2.4d98ed14.chunk.css.map": "/MissBitcoin/static/css/2.4d98ed14.chunk.css.map",
-    "static/css/main.aedff65e.chunk.css.map": "/MissBitcoin/static/css/main.aedff65e.chunk.css.map",
-    "static/js/2.28e11ba0.chunk.js.LICENSE.txt": "/MissBitcoin/static/js/2.28e11ba0.chunk.js.LICENSE.txt"
+    "static/css/main.6ad634c0.chunk.css.map": "/MissBitcoin/static/css/main.6ad634c0.chunk.css.map",
+    "static/js/2.8ace86d7.chunk.js.LICENSE.txt": "/MissBitcoin/static/js/2.8ace86d7.chunk.js.LICENSE.txt",
+    "static/media/big-img2.1c3629a9.jpg": "/MissBitcoin/static/media/big-img2.1c3629a9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa559922.js",
+    "static/js/runtime-main.3fd7ddff.js",
     "static/css/2.4d98ed14.chunk.css",
-    "static/js/2.28e11ba0.chunk.js",
-    "static/css/main.aedff65e.chunk.css",
-    "static/js/main.d883b175.chunk.js"
+    "static/js/2.8ace86d7.chunk.js",
+    "static/css/main.6ad634c0.chunk.css",
+    "static/js/main.9247f9e9.chunk.js"
   ]
 }
